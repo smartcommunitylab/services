@@ -1,0 +1,54 @@
+[submodule "smartcampus.adaconnector"]
+	path = smartcampus.adaconnector
+	url = git@github.com:smartcampuslab/smartcampus.adaconnector.git
+[submodule "smartcampus.domain.semantic"]
+	path = smartcampus.domain.semantic
+	url = git@github.com:smartcampuslab/smartcampus.domain.semantic.git
+[submodule "smartcampus.portfolio.ada"]
+	path = smartcampus.portfolio.ada
+	url = git@github.com:smartcampuslab/smartcampus.portfolio.ada.git
+[submodule "smartcampus.service.esse3"]
+	path = smartcampus.service.esse3
+	url = git@github.com:smartcampuslab/smartcampus.service.esse3.git
+[submodule "smartcampus.service.opendata.placesbuilder"]
+	path = smartcampus.service.opendata.placesbuilder
+	url = git@github.com:smartcampuslab/smartcampus.service.opendata.placesbuilder.git
+[submodule "smartcampus.service.oraritreni"]
+	path = smartcampus.service.oraritreni
+	url = git@github.com:smartcampuslab/smartcampus.service.oraritreni.git
+[submodule "smartcampus.service.parcheggi"]
+	path = smartcampus.service.parcheggi
+	url = git@github.com:smartcampuslab/smartcampus.service.parcheggi.git
+[submodule "smartcampus.service.trentinofamiglia"]
+	path = smartcampus.service.trentinofamiglia
+	url = git@github.com:smartcampuslab/smartcampus.service.trentinofamiglia.git
+[submodule "smartcampus.service.trentomale"]
+	path = smartcampus.service.trentomale
+	url = git@github.com:smartcampuslab/smartcampus.service.trentomale.git
+[submodule "smartcampus.service.unitnnews"]
+	path = smartcampus.service.unitnnews
+	url = git@github.com:smartcampuslab/smartcampus.service.unitnnews.git
+[submodule "smartcampus.service.fb.events"]
+	path = smartcampus.service.fb.events
+	url = git@github.com:smartcampuslab/smartcampus.service.fb.events.git
+[submodule "smartcampus.service.ou"]
+	path = smartcampus.service.ou
+	url = git@github.com:smartcampuslab/smartcampus.service.ou.git
+[submodule "smartcampus.service.pois"]
+	path = smartcampus.service.pois
+	url = git@github.com:smartcampuslab/smartcampus.service.pois.git
+[submodule "smartcampus.service.primiallaprima"]
+	path = smartcampus.service.primiallaprima
+	url = git@github.com:smartcampuslab/smartcampus.service.primiallaprima.git
+[submodule "smartcampus.service.semantic"]
+	path = smartcampus.service.semantic
+	url = git@github.com:smartcampuslab/smartcampus.service.semantic.git
+[submodule "smartcampus.service.smartplannerdata"]
+	path = smartcampus.service.smartplannerdata
+	url = git@github.com:smartcampuslab/smartcampus.service.smartplannerdata.git
+[submodule "smartcampus.service.social"]
+	path = smartcampus.service.social
+	url = git@github.com:smartcampuslab/smartcampus.service.social.git
+[submodule "smartcampus.service.trento.events"]
+	path = smartcampus.service.trento.events
+	url = git@github.com:smartcampuslab/smartcampus.service.trento.events.git
